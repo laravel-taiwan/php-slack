@@ -1,5 +1,5 @@
 {
-    "name": "laravel/php-slack",
+    "name": "frinc/php-slack",
     "description": "A lightweight PHP implementation of Slack's API.",
     "keywords": ["slack"],
     "license": "MIT",
